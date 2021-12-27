@@ -3,16 +3,15 @@
 # KELOMPOK 13
 # Nama Anggota Kelompok
 	1. Muhammad A.M Hikar Syahrial	119140031
-	2. Tri Aji Bagaskara			119140214
-	3. Salman Iliyin Gustian		119140053
-	4. M. Riski Aziz 				119140160
+	2. Tri Aji Bagaskara		119140214
+	3. Salman Iliyin Gustian	119140053
+	4. M. Riski Aziz 		119140160
 
 # Penjelasan Program
 	Program dimulai dengan memasukkan library apa saja yang di butuhkan serta mendeklarasikan variabel-variabel yang diperlukan. Setelah semuanya siap lakukan setup pin di void setup(). Buat fungsi yang menjalankan fitur-fitur pada sistem diluar void setup() dan void loop(), seperti fungsi hitung, fungsi ultrasonik, fungsi ldr dan lain-lain. Fungsi-fungsi tersebut di panggil di dalam void loop(). Pada void loop() atur alur kerja program yang dibuat dengan memasukkan fungsi-fungsi yang dibuat dan perintah-perintah lainnya. Upload kode ke arduino dan sistem siap digunakan.
 
 # Arsitektur Sistem
-	![Arsitektur Sistem](https://user-images.githubusercontent.com/90993802/147475991-e9f0b376-de20-409b-b1aa-6a917d234d2c.png)
-
+	![](Arsitektur Sistem/Arsitektur Sistem.png)
 
 
 # Cara Kerja
