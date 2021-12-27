@@ -11,7 +11,7 @@
 	Program dimulai dengan memasukkan library apa saja yang di butuhkan serta mendeklarasikan variabel-variabel yang diperlukan. Setelah semuanya siap lakukan setup pin di void setup(). Buat fungsi yang menjalankan fitur-fitur pada sistem diluar void setup() dan void loop(), seperti fungsi hitung, fungsi ultrasonik, fungsi ldr dan lain-lain. Fungsi-fungsi tersebut di panggil di dalam void loop(). Pada void loop() atur alur kerja program yang dibuat dengan memasukkan fungsi-fungsi yang dibuat dan perintah-perintah lainnya. Upload kode ke arduino dan sistem siap digunakan.
 
 # Arsitektur Sistem
-	![](Arsitektur Sistem/Arsitektur Sistem.png)
+	Gambar dapat dilihat di direktori Arsitektur Sistem/Arsitektur Sistem.png
 
 
 # Cara Kerja
